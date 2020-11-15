@@ -1,4 +1,4 @@
-# facial-expression-recognition
+# Facial-expression-recognition
 The project helps interviewer to analyse the sentiments through facial expressions of the interviewee. This is real-time project and generate the analysis report at the end.
 
 ## Introduction
